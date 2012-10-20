@@ -1,0 +1,113 @@
+!SESSION 2012-08-05 13:59:19.758 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_32
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:01:50.579
+!MESSAGE Unable to find Action Set: org.eclipse.wst.server.ui.internal.webbrowser.actionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2012-08-05 14:02:02.932
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2012-08-05 14:02:02.932
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@15afd61,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1829097),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@11dfada)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@b0f534,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1829097),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@11dfada)),sourcePriority=1064960)
+!SESSION 2012-08-05 14:03:25.886 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_04
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_DE
+Framework arguments:  -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:03:48.833
+!MESSAGE Unable to find Action Set: org.eclipse.wst.server.ui.internal.webbrowser.actionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2012-08-05 14:03:51.313
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2012-08-05 14:03:51.313
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@19f2856,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@d6130f),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@4b9ec5)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@112d16,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@d6130f),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@4b9ec5)),sourcePriority=1064960)
+
+!ENTRY org.eclipse.ui.workbench 2 0 2012-08-05 14:07:01.197
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2012-08-05 14:07:01.198
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.java.source.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.java.source.quickMenu,
+	handler=ActionHandler(org.eclipse.dltk.ui.actions.GenerateActionGroup$SourceQuickAccessAction@184a52b),
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@d6130f),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@4b9ec5)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.java.source.quickMenu,
+	handler=ActionHandler(org.eclipse.dltk.ui.actions.GenerateActionGroup$SourceQuickAccessAction@177e860),
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@d6130f),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@4b9ec5)),sourcePriority=1064960)
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:07:05.430
+!MESSAGE Invalid preference page path: HTML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:07:05.431
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-08-05 14:08:07.654 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_04
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_DE
+Framework arguments:  -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation
+
+!ENTRY org.eclipse.ui.workbench 2 0 2012-08-05 14:08:15.599
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2012-08-05 14:08:15.599
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@6a9849,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@c5811),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1c5690c)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@33ee2b,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@c5811),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1c5690c)),sourcePriority=1064960)
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:08:43.373
+!MESSAGE Invalid preference page path: HTML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:08:43.374
+!MESSAGE Invalid preference page path: XML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:18:08.956
+!MESSAGE Invalid preference page path: HTML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-08-05 14:18:08.958
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2012-09-18 16:13:09.630 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_04
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=de_DE
+Framework arguments:  -showlocation -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -data D:\Dropbox\adon\alpha -showlocation
+
+!ENTRY org.eclipse.ui.workbench 2 0 2012-09-18 16:13:34.328
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2012-09-18 16:13:34.328
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@d464da,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1346071),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1ed60dd)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@294262,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1346071),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1ed60dd)),sourcePriority=1064960)
+
+!ENTRY org.eclipse.ui 4 4 2012-09-18 16:13:49.845
+!MESSAGE Invalid preference page path: HTML Syntax
+
+!ENTRY org.eclipse.ui 4 4 2012-09-18 16:13:49.846
+!MESSAGE Invalid preference page path: XML Syntax

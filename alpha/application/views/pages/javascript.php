@@ -1,0 +1,1 @@
+<span onclick="alert('User');">click to test User</span>
